@@ -32,7 +32,7 @@ catboost
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/catboost-iris-classifier.git
+git clone https://github.com/javsan77/CatBoost-Iris-Classifier.git
 cd catboost-iris-classifier
 ```
 
@@ -133,7 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Javier Sanchez Ayte - https://www.linkedin.com/in/javier-sanchez-ayte/
 
 ## 🙏 Acknowledgments
 
@@ -150,5 +150,3 @@ Your Name - [@yourhandle](https://twitter.com/yourhandle)
 ---
 
 ⭐ If you found this helpful, please give it a star!
-
-🐛 Found a bug? [Open an issue](https://github.com/yourusername/catboost-iris-classifier/issues)
